@@ -1,0 +1,5 @@
+In this Beta prototype, I add 3 parts to my game mainly, Players can apply tasks, eat drugs and buy items now. Moreover, I also add some details in the game. When you talk with NPC, time will pause; when you click NPC/Enemy, there will be some hints to show who you have chosen.
+
+Mac Version: https://drive.google.com/file/d/1wdAIoE3X6ErQ8RZrYZPMJHjZi8CE6tIn/view?usp=sharing
+
+Windows Version: https://drive.google.com/file/d/1Pputwz1Ty2G68I0K4T4bacgbESdjzQ1e/view?usp=sharing
