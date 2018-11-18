@@ -1,0 +1,6 @@
+In this third prototype, I did 3 things about my game mainly. Firstly, I adjusted the data of the skills and the damage of the enemies. Then, I improved the UI of the game. Finally, I fixed some bugs of my game.
+
+Mac Version: https://drive.google.com/file/d/1Ztq8o4AUtpFbhRWf3VIH9T6ra2wLIK1X/view?usp=sharing
+
+Windows Version: 
+https://drive.google.com/file/d/1tFMXUA1ayB3sLtn_mdyVg_-K_gp-I1qL/view?usp=sharing
